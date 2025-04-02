@@ -18,7 +18,7 @@ namespace Myplugin19
     /// </summary>
     public MyComponent19()
       : base("MyComponent19", "ASpi",
-        "Construct an Archimedean, or arithmetic, spiral given its radii and number of turns.",
+        "Construct an Archimedean, or Aarithmetic, spiral given its radii and number of turns.",
         "Curve", "Primitive")
     {
     }
